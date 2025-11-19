@@ -1,4 +1,9 @@
-https://readme-typing-svg.herokuapp.com?font=Titillium+Web&size=29&letterSpacing=0.2rem&duration=1&pause=1000&color=29AB24E1&width=435&lines=Nadhil)](https://git.io/typing-svg
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Titillium+Web&size=29&letterSpacing=0.2rem&duration=1&pause=1000&color=29AB24E1&width=435&lines=Nadhil)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Titillium+Web&size=29&letterSpacing=0.2rem&duration=1&pause=1000&color=29AB24E1&width=435&lines=Nadhil" alt="Typing SVG"/>
+</p>
+
 
 ### 💻 MERN Stack Developer | Building Scalable Web Apps
 
@@ -25,9 +30,6 @@ I like clean, focused apps that solve real problems.
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nadhil7&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nadhil7&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
@@ -40,8 +42,7 @@ I like clean, focused apps that solve real problems.
 </p>
 
 <p align="center">
-  <!-- This will show once the workflow creates the snake.svg on the output branch -->
-  <img src="https://github.com/nadhil7/nadhil7/blob/output/snake.svg?raw=true" alt="GitHub Contribution Snake"/>
+  <img src="https://github.com/nadhil7/nadhil7/blob/output/snake.svg?raw=true" alt="snake animation"/>
 </p>
 
 ---
