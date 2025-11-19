@@ -13,17 +13,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v4
+
+      - name: Create dist folder
+        run: mkdir -p dist
 
       - name: Generate snake animation (SVG)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: nadhil7
-          outputs: |
-            dist/snake.svg
+          outputs: dist/snake.svg
 
-      - name: Push generated SVG to output branch
+      - name: Verify SVG exists
+        run: |
+          echo "Files in dist/"
+          ls -la dist
+          echo "Preview snake.svg:"
+          head -n 20 dist/snake.svg || echo "snake.svg missing!"
+
+      - name: Push to output branch
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
