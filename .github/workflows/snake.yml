@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"      # daily at 00:00 UTC (change if you want)
-  workflow_dispatch:         # allows manual runs from Actions tab
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -20,11 +20,10 @@ jobs:
           outputs: |
             dist/snake.svg
 
-      - name: Push generated SVG to 'output' branch
+      - name: Push generated SVG to output branch
         uses: ad-m/github-push-action@v0.6.0
         with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}   # FIXED
           branch: output
-          folder: dist
+          directory: dist                            # FIXED
           force: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
