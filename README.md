@@ -2,57 +2,78 @@
 
 ### 💻 MERN Stack Developer | Building Scalable Web Apps
 
-I'm a passionate **Full-Stack JavaScript** developer specializing in the **MERN stack (MongoDB, Express.js, React, Node.js)**.  
+I'm a passionate **Full-Stack JavaScript** developer specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js).  
 I love creating clean, efficient, and user-focused applications.
 
 ---
 
-## 🛠️ Tech Stack (icons — single combined row)
+## 🧰 Tech Stack — Categories (compact)
 
-<p align="center">
-  <!-- React -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <!-- Redux -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" alt="Redux"/>
-  <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <!-- HTML5 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <!-- CSS3 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <!-- Tailwind (raw GitHub URL — more reliable) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind"/>
-  <!-- Node.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <!-- Express -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
-  <!-- TypeScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <!-- MongoDB -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-  <!-- MySQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <!-- AWS (Amazon Web Services) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS"/>
-  <!-- Postman (simple-icons) -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postman.svg" width="40" height="40" alt="Postman"/>
-  <!-- Supabase -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/supabase.svg" width="40" height="40" alt="Supabase"/>
-  <!-- Stripe -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/stripe.svg" width="40" height="40" alt="Stripe"/>
-  <!-- React Native (use React icon as fallback — devicon doesn't have a separate RN icon) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React Native (icon fallback)"/>
-  <!-- Next.js (simple-icons) -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nextdotjs.svg" width="40" height="40" alt="Next.js"/>
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  <!-- Firebase -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/>
-  <!-- Vercel -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel"/>
-</p>
+<table>
+  <tr>
+    <td align="left" valign="top" width="33%">
+      <h4><img src="https://img.shields.io/badge/Frontend-–-blue?style=flat&logo=react" alt="" /> Frontend</h4>
+      <p><small>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="34" height="34" alt="React"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="34" height="34" alt="Redux"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="34" height="34" alt="JS"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="34" height="34" alt="HTML5"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="34" height="34" alt="CSS3"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="34" height="34" alt="Tailwind"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="34" height="34" alt="Next.js"/>
+      </small></p>
+    </td>
+
+    <td align="left" valign="top" width="33%">
+      <h4><img src="https://img.shields.io/badge/Backend-–-informational?style=flat&logo=node.js" alt="" /> Backend</h4>
+      <p><small>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="34" height="34" alt="Node"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="34" height="34" alt="Express"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="34" height="34" alt="TS"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stripe/stripe-original.svg" width="34" height="34" alt="Stripe" onerror="this.src='https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/stripe.svg'"/>
+      </small></p>
+    </td>
+
+    <td align="left" valign="top" width="33%">
+      <h4><img src="https://img.shields.io/badge/Database-–-success?style=flat&logo=mongodb" alt="" /> Database</h4>
+      <p><small>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="34" height="34" alt="MongoDB"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="34" height="34" alt="MySQL"/>
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/supabase.svg" width="34" height="34" alt="Supabase"/>
+      </small></p>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left" valign="top">
+      <h4><img src="https://img.shields.io/badge/Mobile-–-purple?style=flat&logo=react" alt="" /> Mobile / Hybrid</h4>
+      <p><small>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="34" height="34" alt="React Native (fallback)"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="34" height="34" alt="JS"/>
+      </small></p>
+    </td>
+
+    <td align="left" valign="top">
+      <h4><img src="https://img.shields.io/badge/Dev%20Tools-–-yellow?style=flat&logo=git" alt="" /> Dev Tools</h4>
+      <p><small>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="34" height="34" alt="Git"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="34" height="34" alt="GitHub"/>
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postman.svg" width="34" height="34" alt="Postman"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="34" height="34" alt="Firebase"/>
+      </small></p>
+    </td>
+
+    <td align="left" valign="top">
+      <h4><img src="https://img.shields.io/badge/Cloud%20%26%20Payments-–-lightgrey?style=flat&logo=amazonaws" alt="" /> Cloud & Payments</h4>
+      <p><small>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="34" height="34" alt="AWS"/>
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/stripe.svg" width="34" height="34" alt="Stripe"/>
+      </small></p>
+    </td>
+  </tr>
+</table>
+
+> *Small icons, grouped by role to keep the README clean and readable.*
 
 ---
 
@@ -78,16 +99,19 @@ I love creating clean, efficient, and user-focused applications.
   <img src="https://komarev.com/ghpvc/?username=nadhil7&style=plastic&color=blueviolet" alt="Profile Views"/>
 </p>
 
-<!-- After workflow runs successfully, this will show your own snake -->
+<!-- Try both URLs below. Use the one that matches where the workflow put the file -->
 <p align="center">
-  <img src="https://github.com/nadhil7/nadhil7/blob/output/snake.svg?raw=true" alt="GitHub Contribution Snake"/>
+  <!-- common path (root of output branch) -->
+  <img src="https://github.com/nadhil7/nadhil7/blob/output/snake.svg?raw=true" alt="GitHub Contribution Snake (root)"/>
+  <!-- alternate path if workflow pushed dist/ as-is -->
+  <!-- <img src="https://github.com/nadhil7/nadhil7/blob/output/dist/snake.svg?raw=true" alt="GitHub Contribution Snake (dist)"/> -->
 </p>
 
 ---
 
 ## 📫 Contact Me
 - **Email:** mohammednadhilkn@gmail.com  
-- **LinkedIn:** https://linkedin.com/in/mohammed-nadhil-k-n  
+- **LinkedIn:** https://linkedin.com/in/mohammed-nadhil-k-n
 
 ---
 
