@@ -1,4 +1,4 @@
-#  Nadhil
+# 👋 Hi, I'm Nadhil
 
 ### 💻 MERN Stack Developer | Building Scalable Web Apps
 
@@ -7,24 +7,50 @@ I love creating clean, efficient, and user-focused applications.
 
 ---
 
-## 🛠️ Tech Stack (icons)
+## 🛠️ Tech Stack (icons — single combined row)
 
 <p align="center">
-  <!-- Combined single-row icons, resize as needed -->
+  <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <!-- Redux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" alt="Redux"/>
+  <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <!-- HTML5 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <!-- CSS3 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind"/>
+  <!-- Tailwind (raw GitHub URL — more reliable) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind"/>
+  <!-- Node.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <!-- Express -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
+  <!-- TypeScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+  <!-- MongoDB -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+  <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  <!-- AWS (Amazon Web Services) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS"/>
+  <!-- Postman (simple-icons) -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postman.svg" width="40" height="40" alt="Postman"/>
+  <!-- Supabase -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/supabase.svg" width="40" height="40" alt="Supabase"/>
+  <!-- Stripe -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/stripe.svg" width="40" height="40" alt="Stripe"/>
+  <!-- React Native (use React icon as fallback — devicon doesn't have a separate RN icon) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React Native (icon fallback)"/>
+  <!-- Next.js (simple-icons) -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nextdotjs.svg" width="40" height="40" alt="Next.js"/>
+  <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <!-- GitHub -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <!-- Firebase -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/>
+  <!-- Vercel -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel"/>
 </p>
 
@@ -52,7 +78,7 @@ I love creating clean, efficient, and user-focused applications.
   <img src="https://komarev.com/ghpvc/?username=nadhil7&style=plastic&color=blueviolet" alt="Profile Views"/>
 </p>
 
-<!-- After workflow runs, this will show your own snake eating your contribution graph -->
+<!-- After workflow runs successfully, this will show your own snake -->
 <p align="center">
   <img src="https://github.com/nadhil7/nadhil7/blob/output/snake.svg?raw=true" alt="GitHub Contribution Snake"/>
 </p>
