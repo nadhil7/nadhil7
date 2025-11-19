@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"      # daily at 00:00 UTC (change as you like)
-  workflow_dispatch:         # allows manual runs
+    - cron: "0 0 * * *"      # daily at 00:00 UTC (change if you want)
+  workflow_dispatch:         # allows manual runs from Actions tab
 
 jobs:
   build:
