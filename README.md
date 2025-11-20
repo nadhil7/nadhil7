@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Titillium+Web&size=29&letterSpacing=0.2rem&duration=1&pause=1000&color=29AB24E1&width=435&lines=Nadhil)](https://git.io/typing-svg)
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Titillium+Web&size=29&letterSpacing=0.2rem&duration=1&pause=1000&color=29AB24E1&width=435&lines=Nadhil" alt="Typing SVG"/>
 </p>
