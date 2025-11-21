@@ -33,16 +33,10 @@ I like clean, focused apps that solve real problems.
 
 ---
 
-## 🐍 Contribution Snake & Profile Views
+## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nadhil7&style=plastic&color=blueviolet" alt="Profile Views"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/nadhil7/nadhil7/blob/output/snake.svg?raw=true" alt="snake animation"/>
-</p>
-
+![snake gif](https://raw.githubusercontent.com/nadhil7/nadhili7/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://raw.githubusercontent.com/nadhil7/nadhil7/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ---
 
 ## 📫 Contact
