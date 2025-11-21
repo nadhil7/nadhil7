@@ -33,11 +33,12 @@ I like clean, focused apps that solve real problems.
 
 ---
 
-## 🐍 Contribution Snake
+## 🐉 Dragon Contribution Animation
 
-![snake gif](https://raw.githubusercontent.com/nadhil7/nadhili7/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![snake gif](https://raw.githubusercontent.com/nadhil7/nadhil7/output/github-contribution-grid-snake.svg#gh-light-mode-only)
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nadhil7/nadhil7/output/dragon-animation.svg" alt="Dragon contribution animation" />
+</p>
+
 
 ## 📫 Contact
 - **Email:** mohammednadhilkn@gmail.com  
