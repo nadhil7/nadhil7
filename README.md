@@ -1,47 +1,129 @@
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Titillium+Web&size=29&letterSpacing=0.2rem&duration=1&pause=1000&color=29AB24E1&width=435&lines=Nadhil" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Titillium+Web&weight=800&size=36&duration=2000&pause=9999999&color=12F77C&width=450&center=true&vCenter=true&lines=Mohammed+Nadhil+K+N&repeat=false" alt="Typing SVG"/>
+</p>
+
+<p align="center">
+  <strong>MERN Stack Developer</strong> &nbsp;|&nbsp;  Building scalable, clean web apps &nbsp;|&nbsp; Always learning
+</p>
+
+<p align="center">
+  <code>I am a motivated full stack developer. studying new things , i have experience in working as team and individual , still learning and growing</code>
 </p>
 
 
-### 💻 MERN Stack Developer | Building Scalable Web Apps
+---
 
-I'm a passionate **Full-Stack JavaScript** developer specializing in the MERN stack (MongoDB, Express.js, React, Node.js).  
-I like clean, focused apps that solve real problems.
+### 🎨 Frontend
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/EJS-8A2BE2?style=for-the-badge&logoColor=white" />
+</p>
+
 
 ---
 
-## 🧰 Tech Snapshot (compact)
+### ⚙️ Backend & API
 
-| Frontend | Backend | Database |
-|---:|---:|---:|
-| ⚛️ React • 🧠 Redux • 🟨 JS • 🟦 HTML • 🎨 CSS • ✨ Tailwind • ⚫ Next.js | 🟩 Node.js • ⚙️ Express • 🔷 TypeScript • 🧾 Stripe | 🍃 MongoDB • 🐬 MySQL • 🟪 Supabase |
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-143?style=for-the-badge&logo=node.js&logoColor=23FA4D" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-0C1633?style=for-the-badge&logo=stripe&logoColor=635BFF" />
+</p>
 
-| Mobile | Dev Tools | Cloud & Payments |
-|---:|---:|---:|
-| 📱 React Native (fallback) | 🔧 Git • 🐙 GitHub • 🧪 Postman • 🔥 Firebase • 🛠️ Vercel | ☁️ AWS • 💳 Stripe |
+---
 
-> *Compact view — emoji-based to avoid external image breakage.*
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-001E2B?style=for-the-badge&logo=mongodb&logoColor=00ED64" />
+  <img src="https://img.shields.io/badge/MySQL-020B1A?style=for-the-badge&logo=mysql&logoColor=00A6E8" />
+  <img src="https://img.shields.io/badge/Supabase-020817?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+  <img src="https://img.shields.io/badge/Cloudflare%20R2-0F0F0F?style=for-the-badge&logo=cloudflare&logoColor=F38020" />
+</p>
+
+
+---
+
+### 📱 Mobile / Hybrid
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+---
+
+### 🛠️ Dev Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-20232A?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+  <img src="https://img.shields.io/badge/Firebase-0B1220?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+---
+
+### ☁️ Cloud & Payments
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-0B1220?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Stripe-0C1633?style=for-the-badge&logo=stripe&logoColor=635BFF" />
+</p>
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nadhil7&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=nadhil7&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=nadhil7&theme=tokyonight&hide_border=false" 
+    alt="GitHub Streak"
+  />
+</p>
+
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/nadhil7/nadhil7/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" 
+    alt="Snake animation dark"
+  />
+  <img 
+    src="https://raw.githubusercontent.com/nadhil7/nadhil7/output/github-contribution-grid-snake.svg#gh-light-mode-only" 
+    alt="Snake animation light"
+  />
 </p>
 
 ---
 
-## 🐉 Dragon Contribution Animation
+## 📫 Contact
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nadhil7/nadhil7/output/dragon-animation.svg" alt="Dragon contribution animation" />
+  <a href="mailto:mohammednadhilkn@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/mohammed-nadhil-k-n" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/nadhilk_n" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
-
-## 📫 Contact
-- **Email:** mohammednadhilkn@gmail.com  
-- **LinkedIn:** https://linkedin.com/in/mohammed-nadhil-k-n
 
 ---
