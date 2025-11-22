@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <strong>MERN Stack Developer</strong> &nbsp;|&nbsp;  Building scalable, clean web apps &nbsp;|&nbsp; Always learning
+  <strong>MERN Stack Developer</strong> &nbsp;|&nbsp;<strong>  Building scalable, clean web apps </strong>&nbsp;|&nbsp; Always learning
 </p>
 
 <p align="center">
