@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <!-- <code>I am a motivated full stack developer. studying new things , i have experience in working as team and individual , still learning and growing</code> -->
+  <code>I am a motivated full stack developer. studying new things , i have experience in working as team and individual , still learning and growing</code>
 </p>
 
 
