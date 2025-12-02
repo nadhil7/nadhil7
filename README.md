@@ -33,7 +33,7 @@
 ### ⚙️ Backend & API
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-143?style=for-the-badge&logo=node.js&logoColor=23FA4D" />
+  <!-- <img src="https://img.shields.io/badge/Node.js-143?style=for-the-badge&logo=node.js&logoColor=23FA4D" /> -->
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Stripe-0C1633?style=for-the-badge&logo=stripe&logoColor=635BFF" />
