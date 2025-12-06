@@ -77,10 +77,10 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img 
+  <!-- <img 
     src="https://streak-stats.demolab.com?user=nadhil7&theme=tokyonight&hide_border=false" 
     alt="GitHub Streak"
-  />
+  /> -->
 </p>
 
 
