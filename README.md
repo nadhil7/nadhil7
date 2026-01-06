@@ -71,23 +71,7 @@
   <img src="https://img.shields.io/badge/Stripe-0C1633?style=for-the-badge&logo=stripe&logoColor=635BFF" />
 </p>
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=nadhil7&theme=tokyonight&hide_border=false" 
-    alt="GitHub Streak"
-  />
-</p>
-
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
+<!-- <p align="center">
   <img 
     src="https://raw.githubusercontent.com/nadhil7/nadhil7/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" 
     alt="Snake animation dark"
@@ -96,11 +80,11 @@
     src="https://raw.githubusercontent.com/nadhil7/nadhil7/output/github-contribution-grid-snake.svg#gh-light-mode-only" 
     alt="Snake animation light"
   />
-</p>
+</p> -->
 
 ---
 
-## 📫 Contact
+##  Connect with me
 
 <p align="center">
   <a href="mailto:mohammednadhilkn@gmail.com">
