@@ -9,7 +9,7 @@
 <p align="center">
   <code>I am a motivated full stack developer. studying new things , i have experience in working as team and individual , still learning and growing</code>
 </p>
----
+
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
@@ -47,8 +47,6 @@
   />
 </p> -->
 
----
-
 ##  Connect with me
 
 <p align="center">
@@ -64,6 +62,3 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
-
----
