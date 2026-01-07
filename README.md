@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Titillium+Web&weight=800&size=36&duration=2000&pause=9999999&color=12F77C&width=450&center=true&vCenter=true&lines=Mohammed+Nadhil+K+N&repeat=false" alt="Typing SVG"/>
-</p>
+<h1 align="center">Mohammed Nadhil K N</h1>
 
 <p align="center">
   <strong>MERN Stack Developer</strong> &nbsp;|&nbsp;<strong>  Building scalable and clean web apps </strong>&nbsp;|&nbsp; <strong>Always learning</strong>
