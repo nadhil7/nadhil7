@@ -8,7 +8,7 @@
   <code>I am a motivated full stack developer. studying new things , i have experience in working as team and individual , still learning and growing</code>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -47,7 +47,7 @@
 
 ##  Connect with me
 
-<p align="center">
+<p align="left">
   <a href="mailto:mohammednadhilkn@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
