@@ -4,7 +4,7 @@
   <strong>MERN Stack Developer</strong> &nbsp;|&nbsp;<strong>  Building scalable and clean web apps </strong>&nbsp;|&nbsp; <strong>Always learning</strong>
 </p>
 
-<p align="center">
+<p align="left">
   <code>I am a motivated full stack developer. studying new things , i have experience in working as team and individual , still learning and growing</code>
 </p>
 
