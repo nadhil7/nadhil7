@@ -1,4 +1,3 @@
-
 <h1 align="left">Mohammed Nadhil K N</h1>
 <p align="left">
   <strong>MERN Stack Developer</strong> &nbsp;|&nbsp;<strong>  Building scalable and clean web apps </strong>&nbsp;|&nbsp; <strong>Always learning</strong>
@@ -31,7 +30,7 @@
   <img src="https://img.shields.io/badge/Firebase-0B1220?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-0B1220?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/Stripe-0C1633?style=for-the-badge&logo=stripe&logoColor=635BFF" />
+  <!-- <img src="https://img.shields.io/badge/Stripe-0C1633?style=for-the-badge&logo=stripe&logoColor=635BFF" /> -->
 </p>
 
 <!-- <p align="center">
