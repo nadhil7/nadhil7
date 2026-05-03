@@ -17,6 +17,4 @@ I am a full-stack developer with experience working both in teams and individual
 - [Instagram](https://instagram.com/nadhilkn_)
 
 ---
-
-## A little more about me
 > “Still learning, still growing.”
