@@ -18,17 +18,5 @@ I am a full-stack developer with experience working both in teams and individual
 
 ---
 
-## Languages & Tools I've worked with
-
-JavaScript • TypeScript • React • Node.js • Express • MongoDB • HTML • CSS • Git • VS Code • REST APIs
-
----
-
 ## A little more about me
-
-- 👨‍💻 I'm a full-stack developer who loves both frontend and backend.
-- 🧠 I believe in learning by building and staying curious.
-- 🤝 I value clear communication and collaboration in teams.
-- 🚀 Always open to new opportunities and interesting projects.
-
 > “Still learning, still growing.”
